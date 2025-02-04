@@ -1,16 +1,16 @@
-### Hi there 👋
-# I love Java, some call me a JavLover
 <!--
-**DollieSon/DollieSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey If you are reading this... why?
+-->
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I'm a CS undergrad
+- I love coding as a hobby
+- I somewhat taught myself the basics of programming by modifying the files of games
+- I like modding games
+
+If you wanna talk to me, or ask anythin, feel free to message me
+
+<!--
+I'm single... he he he.. he.. TT.... HAHAHAHA
 -->
